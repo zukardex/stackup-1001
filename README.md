@@ -2,9 +2,9 @@
 # Argon
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Mohammed Suhail K M http://https://github.com/zukardex
-2. Alphin Francis http://https://github.com/alphinfrancis25
-3. Pavan Krishna http://https://github.com/CHEKUTHAN-ZER
+1. Mohammed Suhail K M https://github.com/zukardex
+2. Alphin Francis https://github.com/alphinfrancis25
+3. Pavan Krishna https://github.com/CHEKUTHAN-ZER
 ## Team Id
 1010
 ## Link to product walkthrough
