@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: yellow;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    margin: 0%;
+    width: 100%;
+    background-color: aqua;
+
+}
+header h1{
+    margin: 0%;
+    font-size: 3em;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.login-box{
+    border-radius: 10px;
+background-color: rgb(73, 148, 73);
+width: 400px;
+height: 400px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+
+}
+button{
+    background-color: rgb(84, 84, 222);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 0.25s;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: rgb(49, 194, 119);
+    box-shadow: 3px rgba(0, 0, 0, 0.5);
+}
+button:o
